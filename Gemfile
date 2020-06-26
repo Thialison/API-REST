@@ -1,7 +1,10 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
 gem 'cucumber'
-gem 'rspec'
-gem 'rake'
 gem 'httparty'
-gem 'pry'
+gem 'pry-byebug'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

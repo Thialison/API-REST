@@ -1,5 +1,4 @@
-require 'rspec'
-require 'cucumber'
-require 'httparty'
-require 'pry'
+# frozen_string_literal: true
 
+require 'bundler'
+Bundler.require(:default)
