@@ -34,7 +34,6 @@ GEM
       byebug (~> 11.0)
       pry (~> 0.13.0)
     rainbow (3.0.0)
-    rake (12.0.0)
     regexp_parser (1.7.1)
     rexml (3.2.4)
     rspec (3.6.0)
@@ -72,7 +71,6 @@ DEPENDENCIES
   cucumber
   httparty
   pry-byebug
-  rake
   rspec
   rubocop
 
